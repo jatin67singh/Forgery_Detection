@@ -1,0 +1,11 @@
+keras
+matplotlib
+numpy
+pillow
+pyqt5
+seaborn
+scikit-learn
+tensorflow
+tqdm
+pandas
+Python 3.12.3
