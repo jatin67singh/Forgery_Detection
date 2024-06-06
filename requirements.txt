@@ -9,3 +9,9 @@ tensorflow
 tqdm
 pandas
 Python 3.12.3
+ultralytics
+torch==2.2.2
+torchvision==0.17.2
+torchaudio==2.2.2
+tesseract
+pytesseract
