@@ -1,2 +1,2 @@
 # Forgery_Detection
-Forgery Detection using Vision Transformer.
+Forgery Detection Using Vision Transformer.
