@@ -1,2 +1,2 @@
 # Forgery_Detection
-Forgery Detection using Vision Transformer.
+ Developing and Training a CNN model to detect forged(manipulated) documents.
